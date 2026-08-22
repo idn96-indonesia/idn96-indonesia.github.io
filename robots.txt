@@ -1,0 +1,8 @@
+# robots.txt https://idn96-indonesia.github.io/
+# Situs pendamping IDN96: profil merek, identitas badan hukum, dan sumber terbuka.
+# Portal beritanya ada di https://idn96.id/ dengan robots.txt-nya sendiri.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://idn96-indonesia.github.io/sitemap.xml
