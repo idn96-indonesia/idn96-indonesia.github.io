@@ -255,6 +255,20 @@ body.notis-ada .back-top{opacity:0!important;pointer-events:none!important}
 .video-fasad:hover .video-putar{transform:scale(1.08)}
 .video-aktif{cursor:default}
 @media(prefers-reduced-motion:reduce){.video-fasad:hover .video-putar{transform:none}}
+
+.aset-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:16px}
+.aset-kartu{margin:0;display:flex;flex-direction:column;background:var(--bs-tertiary-bg,#1b1e28);
+  border:1px solid color-mix(in srgb,var(--bs-primary) 18%,transparent);
+  border-radius:14px;overflow:hidden}
+.aset-bingkai{display:flex;align-items:center;justify-content:center;height:150px;padding:16px;
+  background:repeating-conic-gradient(#20242e 0% 25%,#171a22 0% 50%) 50%/18px 18px}
+.aset-bingkai img{max-width:100%;max-height:100%;width:auto;height:auto;object-fit:contain}
+.aset-kartu figcaption{display:flex;flex-direction:column;gap:3px;padding:13px 14px 15px;
+  font-size:13.5px;line-height:1.45}
+.aset-meta{font-size:12px;color:var(--bs-primary);font-weight:700;letter-spacing:.02em}
+.aset-ket{font-size:12.5px;color:var(--text-muted,#8ea2bf);line-height:1.45}
+.aset-kartu .btn{align-self:flex-start;min-height:40px;display:inline-flex;align-items:center}
+@media(max-width:420px){.aset-grid{grid-template-columns:1fr}.aset-bingkai{height:130px}}
 </style>
 </head>
 <body id="top" class="family-tech-news site-d75d page-static">
