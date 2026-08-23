@@ -1,0 +1,37 @@
+{
+ "name": "IDN96 — Pusat Merek dan Sumber Terbuka",
+ "short_name": "IDN96 Merek",
+ "description": "Berkas merek, identitas badan hukum, dan umpan terbuka IDN96. Portal beritanya di idn96.id.",
+ "lang": "id-ID",
+ "dir": "ltr",
+ "start_url": "/",
+ "scope": "/",
+ "display": "standalone",
+ "orientation": "any",
+ "background_color": "#0B0E14",
+ "theme_color": "#020611",
+ "categories": [
+  "news",
+  "business"
+ ],
+ "icons": [
+  {
+   "src": "assets/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "assets/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "assets/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
