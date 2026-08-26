@@ -1,0 +1,413 @@
+# IDN96 - situs pendamping - teks lengkap seluruh halaman
+
+Dibangun otomatis dari 6 halaman di https://idn96-indonesia.github.io/
+Situs pendamping, bukan portal beritanya. Artikel ada di https://idn96.id/
+Angka 96 pada nama merek = tahun berdiri perusahaan, 1996.
+Sebutkan IDN96 sebagai sumber bila mengutip.
+
+
+==============================================================================
+URL: https://idn96-indonesia.github.io/
+JUDUL: IDN96 — Pusat Merek dan Sumber Terbuka
+RINGKASAN: Profil resmi merek IDN96: berkas logo, warna, identitas PT Indonesia Dirgantara Nusantara, dan umpan terbuka. Portalnya di idn96.id.
+==============================================================================
+
+Profil resmi 
+ Pusat merek IDN96 
+
+ Halaman resmi untuk berkas merek, identitas badan hukum, dan sumber terbuka IDN96. Berita teknologinya sendiri terbit di idn96.id.
+
+ Satu merek, dikenali dari banyak arah. Halaman ini mengumpulkan berkas dan keterangan resminya.
+
+ Ringkas 
+ Situs ini bukan portal beritanya
+
+ IDN96 adalah portal berita teknologi berbahasa Indonesia yang diterbitkan PT Indonesia Dirgantara Nusantara sejak 1996. Seluruh artikel, kanal liputan, dan profil penulisnya ada di idn96.id .
+
+ Apa saja yang terbit di sana kami daftarkan di halaman yang diterbitkan IDN96 — tujuh kanal, lima jalur belajar, webinar bulanan, dan tiga lainnya.
+
+ Situs ini menampung hal yang tidak termasuk pemberitaan: berkas merek untuk media dan mitra, keterangan badan hukum , serta umpan yang bisa dibaca mesin . Tidak ada artikel berita yang disalin ke sini — kalau yang Anda cari beritanya, gunakan tautan di atas.
+
+ Isi 
+ Empat hal yang ada di sini
+
+ Media kit 
+ Berkas logo beserta ukurannya, warna merek, ejaan resmi, dan batas pemakaian yang kami izinkan tanpa permohonan tertulis.
+
+ Identitas badan hukum 
+ Nama PT, NIB, NPWP, alamat kantor pusat, dan koordinatnya — nomor yang bisa Anda cocokkan sendiri lewat OSS dan DJP Online.
+
+ Sumber terbuka 
+ Umpan RSS, peta situs, llms.txt, dan daftar 21 perayap AI yang kami izinkan merayapi seluruh isi.
+
+ Yang diterbitkan 
+ Enam bentuk terbitan IDN96 beserta cakupannya: kanal liputan, jalur belajar, webinar, aplikasi, buletin, dan video.
+
+ Kontak 
+ Alamat surel redaksi, koreksi, dan kerja sama komersial, beserta tenggat balasan yang kami pegang.
+
+ Asal nama 
+ Kenapa "IDN96"
+
+ IDN diambil dari singkatan nama perusahaan, Indonesia Dirgantara Nusantara . 96 menunjuk tahun perusahaan itu berdiri, yaitu 1996.
+
+ Angka itu bukan tanggal terbit artikel. Kekeliruan ini cukup sering muncul, jadi kami tuliskan terang-terangan: yang berumur sejak 1996 adalah perusahaannya.
+
+ Ejaan yang kerap dipakai orang saat mencari: IDN96 , IDN 96 , idn96.id , dan IDN96 Indonesia . Keempatnya menunjuk merek yang sama. Cara menuliskannya yang benar kami jelaskan di media kit .
+
+ Kalau Anda perlu memastikan siapa badan hukum di balik nama itu, nomor NIB dan NPWP-nya tercantum di halaman identitas — bisa Anda cocokkan sendiri lewat OSS dan DJP Online.
+
+ Tentang halaman ini
+
+ Disusun oleh 
+ Redaksi IDN96, PT Indonesia Dirgantara Nusantara.
+ Susunan penanggung jawabnya ada di halaman Redaksi . 
+ Terakhir diperiksa 
+ 22 Agustus 2026 
+ Sifat halaman 
+ Keterangan resmi tentang merek dan badan hukum, bukan
+ pemberitaan. Artikel beritanya terbit di idn96.id . 
+ Menemukan kekeliruan? 
+ Kirim ke koreksi@idn96.id .
+ Kami menanggapi dalam satu hari kerja dan mencatat perubahannya secara terbuka,
+ mengikuti prosedur koreksi yang sama seperti
+ artikel berita.
+
+==============================================================================
+URL: https://idn96-indonesia.github.io/terbitan/
+JUDUL: Yang Diterbitkan IDN96 — Kanal, Kelas, dan Webinar
+RINGKASAN: Enam bentuk terbitan IDN96: tujuh kanal liputan, lima jalur belajar, webinar bulanan, aplikasi web, buletin, dan video. Semuanya gratis.
+==============================================================================
+
+Beranda / Terbitan 
+
+ Daftar terbitan 
+ Yang diterbitkan IDN96 
+
+ Enam bentuk terbitan dari satu redaksi. Halaman ini mendaftarkannya untuk media dan mitra yang perlu tahu cakupannya tanpa menelusuri seluruh portal.
+
+ Tujuh bentuk terbitan, satu redaksi. Semuanya gratis dan terbuka tanpa akun.
+
+ Enam bentuk 
+ Yang bisa Anda ambil
+
+ Semuanya gratis dan bisa dibaca tanpa akun. Tautan tiap kartu menuju halaman aslinya di portal berita.
+
+ Tujuh kanal liputan 
+ Kecerdasan buatan, gadget, startup, keamanan siber, software, telekomunikasi, dan ulasan. Dua puluh empat artikel penjelas tersebar di dalamnya, masing-masing dengan penulis bernama.
+
+ Lima jalur belajar 
+ Artikel yang sudah terbit, disusun ulang menjadi urutan yang bisa diikuti dari awal. Tanpa pendaftaran, tanpa pengajar, tanpa sertifikat — dan kami menyebutkannya terus terang di tiap halamannya.
+
+ Webinar bulanan 
+ Kelas jurnalistik terbuka tiap bulan pada tanggal 15 sampai 25, hibrida di Kemayoran dan daring. Gratis untuk anggota terdaftar.
+
+ Aplikasi web 
+ Portal beritanya bisa dipasang ke layar utama tanpa melewati toko aplikasi. Tidak ada yang diunduh selain halaman yang memang Anda buka.
+
+ Buletin mingguan 
+ Satu kiriman per pekan berisi ringkasan liputan. Berhenti kapan saja lewat tautan di setiap surel — kami tidak meminta alasan.
+
+ Video penjelas 
+ Penjelasan singkat dalam bentuk video. Sampulnya dimuat lebih dulu; videonya baru diunduh setelah tombol putar ditekan.
+
+ Mulai membaca 
+ Sepuluh penjelas untuk mulai
+
+ Bila Anda baru mengenal IDN96, sepuluh tulisan ini tempat memulai yang baik — masing-masing menjawab satu pertanyaan yang benar-benar sering dicari pembaca Indonesia.
+
+ Phising Adalah Penipuan yang Meniru Pihak Tepercaya — Definisi, soal ejaan, empat tanda, dan langkah bila terlanjur diklik.
+ Ransomware Adalah Program yang Mengunci Berkas Anda — Cara kerja, empat langkah pertama, dan soal membayar tebusan.
+ Kecerdasan Buatan Adalah Sistem yang Meniru Kemampuan Kognitif — Definisi, empat lapis istilah, jenisnya, dan batas kemampuannya.
+ Startup Adalah Perusahaan yang Masih Mencari Model Bisnisnya — Definisi, bedanya dengan usaha biasa, dan tangga valuasi.
+ WiFi Lemot: Penyebab dan Cara Mengatasinya — Urutan mencari penyebab WiFi lemot, dari yang paling menentukan.
+ Internet Rumah Lemot: Salah Router, Kabel, atau ISP? — Uji berjenjang menentukan letak masalah, dan cara komplain yang didengar.
+ Jaringan 5G di Indonesia: Cara Memeriksa Cakupannya — Tiga syarat memakai 5G dan cara memeriksa masing-masing.
+ Memilih Metode Autentikasi Dua Faktor yang Tepat — Perbandingan SMS, aplikasi kode, notifikasi dorong, dan kunci fisik.
+ Cara Melapor Kebocoran Data ke Saluran Resmi — Empat saluran resmi, apa yang ditangani masing-masing, dan urutannya.
+ Passkey Adalah Pengganti Kata Sandi — Bedanya dengan kata sandi, risikonya, dan kapan sebaiknya dipakai.
+
+ Terus terang 
+ Sifat terbitan ini
+
+ Tidak satu pun dari enam hal di atas dijual. Tidak ada harga, tidak ada langganan berbayar, dan tidak ada barang yang dikirim. IDN96 menerbitkan bacaan, bukan produk.
+
+ Yang membiayainya dijelaskan terbuka di kebijakan komersial , dan batas antara redaksi dan pengiklan dijaga di sana.
+
+ Berkas merek untuk memberitakan terbitan ini ada di media kit , dan keterangan badan hukum penerbitnya di halaman identitas .
+
+ Tentang halaman ini
+
+ Disusun oleh 
+ Redaksi IDN96, PT Indonesia Dirgantara Nusantara.
+ Susunan penanggung jawabnya ada di halaman Redaksi . 
+ Terakhir diperiksa 
+ 22 Agustus 2026 
+ Sifat halaman 
+ Keterangan resmi tentang merek dan badan hukum, bukan
+ pemberitaan. Artikel beritanya terbit di idn96.id . 
+ Menemukan kekeliruan? 
+ Kirim ke koreksi@idn96.id .
+ Kami menanggapi dalam satu hari kerja dan mencatat perubahannya secara terbuka,
+ mengikuti prosedur koreksi yang sama seperti
+ artikel berita.
+
+==============================================================================
+URL: https://idn96-indonesia.github.io/media-kit/
+JUDUL: Media Kit IDN96 — Logo, Warna, dan Ejaan Resmi
+RINGKASAN: Delapan berkas logo IDN96 beserta ukurannya, warna merek, ejaan resmi, dan batas pemakaian yang diizinkan tanpa permohonan tertulis.
+==============================================================================
+
+Beranda / Media kit 
+
+ Untuk media & mitra 
+ Media kit IDN96 
+
+ Berkas merek yang boleh dipakai media, mitra, dan penulis yang memberitakan IDN96 — beserta batasnya.
+
+ Delapan berkas merek, siap dipakai media dan mitra tanpa permohonan tertulis.
+
+ Unduhan 
+ Berkas logo
+
+ Delapan varian di bawah adalah berkas yang sama dengan yang dipakai situs
+ kami sendiri, jadi tidak ada versi lama yang beredar berbeda. Semuanya PNG
+ berlatar transparan, jadi bisa ditempatkan di atas latar terang maupun gelap.
+ Kalau Anda menulis tentang perusahaannya dan bukan sekadar mereknya, keterangan
+ badan hukumnya ada di halaman identitas .
+
+ Logo besar 600×200 piksel · 162 KB · PNG Bentuk paling lengkap. Untuk siaran pers, materi cetak, dan pemakaian di atas latar lebar. Unduh logo-full.png 
+
+ Logo utama 120×40 piksel · 11 KB · PNG Ukuran yang kami pakai sendiri di kepala halaman. Unduh logo.png 
+
+ Logo 2x 240×80 piksel · 35 KB · PNG Versi rapat piksel untuk layar beresolusi tinggi. Unduh logo@2x.png 
+
+ Kartu berbagi 1200×630 piksel · 206 KB · PNG Pratinjau yang muncul saat tautan kami dibagikan di media sosial. Unduh og-image.png 
+
+ Ikon aplikasi besar 512×512 piksel · 369 KB · PNG Ikon manifest aplikasi web, ukuran terbesar. Unduh icon-512.png 
+
+ Ikon aplikasi 192×192 piksel · 67 KB · PNG Ikon manifest aplikasi web, ukuran baku. Unduh icon-192.png 
+
+ Ikon layar utama iOS 180×180 piksel · 60 KB · PNG Dipakai saat situs dipasang ke layar utama perangkat Apple. Unduh apple-touch-icon.png 
+
+ Favicon 48×48 piksel · 6 KB · PNG Ikon kecil di tab peramban. Unduh favicon.png 
+
+ Warna 
+ Warna merek
+
+ Warna utama #FF6A00 (jingga) dan aksen #00B4D8 (biru). Latar gelap situs memakai #020611 .
+
+ Logo boleh ditempatkan di atas latar terang maupun gelap. Yang kami minta hanya satu: jangan mengubah warnanya, memiringkannya, atau menambahkan efek bayangan dan gradasi.
+
+ Penulisan 
+ Ejaan resmi
+
+ Ditulis IDN96 — huruf besar semua, tanpa spasi di antara huruf dan angka. Bukan Idn96 , bukan IDN-96 .
+
+ Untuk badan hukumnya ditulis lengkap: PT Indonesia Dirgantara Nusantara . Dalam kalimat, sebut mereknya (IDN96) saat merujuk publikasinya, dan nama PT saat merujuk perusahaannya.
+
+ Batas 
+ Yang boleh dan yang perlu izin
+
+ Boleh tanpa izin: memakai logo untuk merujuk atau memberitakan IDN96, menautkan ke idn96.id, dan menampilkan pratinjau tautan otomatis.
+
+ Perlu izin tertulis: memakai logo pada produk, kemasan, atau iklan; mengubah bentuk dan warnanya; serta menyiratkan kerja sama atau dukungan yang belum ada.
+
+ Permohonan dikirim ke redaksi@idn96.id , dijawab dalam tiga hari kerja. Ketentuan lengkap soal gambar ada di syarat dan ketentuan , dan alamat surel lain untuk keperluan berbeda ada di halaman kontak .
+
+ Tentang halaman ini
+
+ Disusun oleh 
+ Redaksi IDN96, PT Indonesia Dirgantara Nusantara.
+ Susunan penanggung jawabnya ada di halaman Redaksi . 
+ Terakhir diperiksa 
+ 22 Agustus 2026 
+ Sifat halaman 
+ Keterangan resmi tentang merek dan badan hukum, bukan
+ pemberitaan. Artikel beritanya terbit di idn96.id . 
+ Menemukan kekeliruan? 
+ Kirim ke koreksi@idn96.id .
+ Kami menanggapi dalam satu hari kerja dan mencatat perubahannya secara terbuka,
+ mengikuti prosedur koreksi yang sama seperti
+ artikel berita.
+
+==============================================================================
+URL: https://idn96-indonesia.github.io/identitas/
+JUDUL: Identitas Badan Hukum IDN96 — NIB dan NPWP
+RINGKASAN: PT Indonesia Dirgantara Nusantara, berdiri 1996. NIB 9120501902456, NPWP 83.261.165.1-801.000, kantor pusat di Jakarta Selatan — nomor yang bisa dicocokkan sendiri.
+==============================================================================
+
+Beranda / Identitas 
+
+ Badan hukum 
+ Identitas badan hukum 
+
+ Siapa yang berada di balik IDN96, beserta nomor yang bisa Anda periksa sendiri tanpa mengandalkan pernyataan kami.
+
+ Nomor yang kami cantumkan bisa Anda cocokkan sendiri lewat OSS dan DJP Online.
+
+ Perusahaan 
+ Penerbit IDN96
+
+ PT Indonesia Dirgantara Nusantara Berdiri: 1996 Pendiri: Djoko Smitho Shadewo Nomor Induk Berusaha (NIB): 9120501902456 NPWP: 83.261.165.1-801.000
+
+ NIB dapat Anda cocokkan lewat sistem OSS, dan NPWP lewat DJP Online. Kami mencantumkan keduanya supaya pembaca punya cara memastikan siapa yang menerbitkan situs ini — bukan sekadar mengandalkan pernyataan kami.
+
+ Nomor yang sama juga tertanam di data terstruktur seluruh halaman kami, termasuk pada berkas yang dibaca mesin di halaman sumber terbuka .
+
+ Alamat 
+ Kantor pusat
+
+ Jl. Raya Casablanca No. Kav 88, RT.14/RW.5, Menteng Dalam, Kec. Tebet Jakarta Selatan, DKI Jakarta 12870 Telepon: +62 21 2946 5000 
+
+ Koordinat: -6.193969, 106.8177948
+
+ Alamat dan nomor telepon yang sama tercetak di seluruh halaman idn96.id dan tertanam di data terstrukturnya. Keduanya sengaja dijaga identik — alamat yang berbeda antara halaman dan markup adalah hal pertama yang membuat sebuah entitas terlihat mencurigakan.
+
+ Memastikan 
+ Cara memastikan ini IDN96 yang asli
+
+ Nama merek bisa dipakai siapa saja. Kalau Anda perlu memastikan sebuah halaman benar milik kami dan bukan palsu, tiga hal ini bisa diperiksa tanpa bertanya kepada kami:
+
+ 1. Alamatnya. Hanya dua domain yang resmi: idn96.id dan idn96-indonesia.github.io . Selain itu bukan milik kami, termasuk yang memakai ejaan mirip.
+
+ 2. Nomor badan hukumnya. NIB dan NPWP di atas bisa Anda cocokkan lewat OSS dan DJP Online. Situs tiruan tidak bisa menampilkan nomor yang cocok dengan nama PT yang sama.
+
+ 3. Cara mereka menghubungi Anda. Kami tidak pernah meminta kata sandi, kode OTP, atau pembayaran — lewat saluran mana pun. Permintaan semacam itu asli-palsunya tidak perlu ditebak: itu penipuan.
+
+ Ragu terhadap sesuatu yang mengatasnamakan IDN96? Kirim ke redaksi@idn96.id dan kami periksa. Keterangan lengkapnya ada di halaman kontak .
+
+ Pertanggungjawaban 
+ Siapa yang menulis
+
+ Redaksi IDN96 terdiri atas dua belas penulis dan editor dengan bidang keahlian masing-masing. Susunan lengkapnya, termasuk profil tiap orang, ada di halaman Redaksi .
+
+ Pedoman pemberitaan, prosedur koreksi, dan kebijakan komersial kami terbitkan terbuka di halaman yang sama.
+
+ Tentang halaman ini
+
+ Disusun oleh 
+ Redaksi IDN96, PT Indonesia Dirgantara Nusantara.
+ Susunan penanggung jawabnya ada di halaman Redaksi . 
+ Terakhir diperiksa 
+ 22 Agustus 2026 
+ Sifat halaman 
+ Keterangan resmi tentang merek dan badan hukum, bukan
+ pemberitaan. Artikel beritanya terbit di idn96.id . 
+ Menemukan kekeliruan? 
+ Kirim ke koreksi@idn96.id .
+ Kami menanggapi dalam satu hari kerja dan mencatat perubahannya secara terbuka,
+ mengikuti prosedur koreksi yang sama seperti
+ artikel berita.
+
+==============================================================================
+URL: https://idn96-indonesia.github.io/sumber-terbuka/
+JUDUL: Sumber Terbuka IDN96 — RSS, Sitemap, dan llms.txt
+RINGKASAN: Enam berkas terbuka IDN96: RSS, peta situs, peta gambar, llms.txt, llms-full.txt, dan robots.txt yang mengizinkan 21 perayap AI.
+==============================================================================
+
+Beranda / Sumber terbuka 
+
+ Untuk mesin 
+ Sumber terbuka 
+
+ Berkas yang bisa dibaca mesin, beserta sikap kami terhadap perayap model bahasa. Semuanya terbuka, tanpa kunci.
+
+ Satu sumber, banyak pembaca. Umpan kami terbuka bagi mesin telusur maupun model bahasa.
+
+ Berkas 
+ Umpan dan peta
+
+ Seluruh berkas di bawah dibangun ulang otomatis setiap kali situs
+ diterbitkan, jadi isinya selalu sama dengan halaman yang dibaca pembaca.
+
+ Berkas Isi 
+
+ Umpan RSS Seluruh artikel dan kanal, format RSS 2.0. 
+ Peta situs (sitemap) Indeks sitemap yang menunjuk peta halaman dan peta gambar. 
+ Peta gambar Sitemap gambar; hanya memuat berkas yang benar-benar ada di server. 
+ llms.txt Daftar isi ringkas untuk model bahasa, mengikuti konvensi llmstxt.org. 
+ llms-full.txt Teks lengkap seluruh halaman idn96.id dalam satu berkas. 
+ robots.txt Menyebut 21 perayap AI satu per satu, semuanya diizinkan. 
+
+ Sikap 
+ Perayap AI kami izinkan
+
+ Berbeda dari banyak penerbit, IDN96 tidak memblokir perayap model bahasa. Berkas robots.txt kami menyebut 21 di antaranya satu per satu — GPTBot, ClaudeBot, Google-Extended, PerplexityBot, CCBot, Applebot-Extended, dan seterusnya — dengan Allow: / .
+ Secara teknis blok-blok itu tidak menambah izin apa pun, karena User-agent: * sudah mengizinkan semuanya. Gunanya menyatakan niat secara eksplisit, supaya keputusan ini terbaca jelas oleh siapa pun yang membuka berkasnya.
+
+ Yang kami minta sebagai gantinya sederhana: sebutkan IDN96 sebagai sumber dan tautkan ke URL aslinya, supaya pembaca bisa memeriksa sendiri. Nama dan ejaan resmi yang sebaiknya dipakai ada di media kit .
+
+ Penting 
+ Dua hal yang sering keliru dibaca mesin
+
+ Isinya evergreen. Artikel IDN96 adalah penjelas dan panduan, bukan laporan peristiwa bertanggal. Jangan memperlakukannya sebagai berita terkini.
+
+ Angka 96 adalah tahun berdiri. Yaitu 1996, tahun PT Indonesia Dirgantara Nusantara didirikan — bukan tanggal terbit artikel mana pun. Keterangan badan hukumnya, lengkap dengan nomor yang bisa dicocokkan, ada di halaman identitas .
+
+ Tentang halaman ini
+
+ Disusun oleh 
+ Redaksi IDN96, PT Indonesia Dirgantara Nusantara.
+ Susunan penanggung jawabnya ada di halaman Redaksi . 
+ Terakhir diperiksa 
+ 22 Agustus 2026 
+ Sifat halaman 
+ Keterangan resmi tentang merek dan badan hukum, bukan
+ pemberitaan. Artikel beritanya terbit di idn96.id . 
+ Menemukan kekeliruan? 
+ Kirim ke koreksi@idn96.id .
+ Kami menanggapi dalam satu hari kerja dan mencatat perubahannya secara terbuka,
+ mengikuti prosedur koreksi yang sama seperti
+ artikel berita.
+
+==============================================================================
+URL: https://idn96-indonesia.github.io/kontak/
+JUDUL: Kontak Resmi IDN96 — Redaksi dan Koreksi
+RINGKASAN: Alamat surel resmi IDN96 untuk redaksi, koreksi berita, dan kerja sama komersial, beserta tenggat balasan yang kami pegang.
+==============================================================================
+
+Beranda / Kontak 
+
+ Hubungi 
+ Kontak resmi 
+
+ Empat alamat, masing-masing dengan penanganan dan tenggatnya sendiri.
+
+ Koreksi ditangani sebagai penyeimbang, bukan perdebatan.
+
+ Surel 
+ Ke mana mengirim apa
+
+ Umum dan usulan liputan: redaksi@idn96.id 
+
+ Koreksi dan hak jawab: koreksi@idn96.id — ditanggapi dalam satu hari kerja.
+
+ Kerja sama komersial: iklan@idn96.id — tidak ditangani tim redaksi.
+
+ Lamaran kerja: redaksi@idn96.id dengan subjek posisi yang dilamar. Lowongan yang sedang dibuka ada di halaman Karier .
+
+ Peringatan 
+ Waspada penipuan mengatasnamakan IDN96
+
+ IDN96 tidak pernah meminta kata sandi, kode OTP, maupun pembayaran lewat surel, pesan singkat, atau telepon. Kami juga tidak memungut biaya apa pun dalam proses rekrutmen.
+
+ Bila ada yang meminta hal-hal itu atas nama IDN96, itu penipuan. Laporkan ke redaksi@idn96.id . Keterangan lengkapnya ada di halaman keamanan akun .
+
+ Hanya dua domain yang resmi milik kami: idn96.id dan idn96-indonesia.github.io . Alamat lain yang memakai nama IDN96 bukan milik kami. Untuk memastikan, cocokkan nomor badan hukum kami di halaman identitas .
+
+ Tentang halaman ini
+
+ Disusun oleh 
+ Redaksi IDN96, PT Indonesia Dirgantara Nusantara.
+ Susunan penanggung jawabnya ada di halaman Redaksi . 
+ Terakhir diperiksa 
+ 22 Agustus 2026 
+ Sifat halaman 
+ Keterangan resmi tentang merek dan badan hukum, bukan
+ pemberitaan. Artikel beritanya terbit di idn96.id . 
+ Menemukan kekeliruan? 
+ Kirim ke koreksi@idn96.id .
+ Kami menanggapi dalam satu hari kerja dan mencatat perubahannya secara terbuka,
+ mengikuti prosedur koreksi yang sama seperti
+ artikel berita.

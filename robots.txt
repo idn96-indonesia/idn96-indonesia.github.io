@@ -1,8 +1,102 @@
 # robots.txt https://idn96-indonesia.github.io/
-# Situs pendamping IDN96: profil merek, identitas badan hukum, dan sumber terbuka.
-# Portal beritanya ada di https://idn96.id/ dengan robots.txt-nya sendiri.
+# Situs pendamping IDN96: profil merek, identitas badan hukum, berkas media kit, dan sumber terbuka. Portal beritanya ada di https://idn96.id/ dengan robots.txt-nya sendiri.
+#
+# Seluruh isi situs ini boleh dirayapi, dibaca, diindeks, dan dipakai sebagai
+# bahan pelatihan maupun rujukan - termasuk oleh perayap model bahasa. Blok-blok
+# di bawah tidak menambah izin apa pun (User-agent: * sudah cukup); keduanya ada
+# supaya niat ini terbaca jelas, karena banyak penerbit justru memblokirnya.
+#
+# Yang kami minta: sebutkan sumbernya dan tautkan ke URL aslinya, supaya pembaca
+# bisa memeriksa sendiri.
+
+# Ringkasan situs untuk model bahasa : https://idn96-indonesia.github.io/llms.txt
+# Seluruh isi dalam satu berkas teks : https://idn96-indonesia.github.io/llms-full.txt
 
 User-agent: *
+Allow: /
+
+# OpenAI - pelatihan
+User-agent: GPTBot
+Allow: /
+
+# OpenAI - pencarian ChatGPT
+User-agent: OAI-SearchBot
+Allow: /
+
+# OpenAI - kunjungan atas permintaan pengguna
+User-agent: ChatGPT-User
+Allow: /
+
+# Anthropic - pelatihan
+User-agent: ClaudeBot
+Allow: /
+
+# Anthropic - kunjungan atas permintaan pengguna
+User-agent: Claude-Web
+Allow: /
+
+# Anthropic - pencarian
+User-agent: Claude-SearchBot
+Allow: /
+
+# Anthropic - nama lama
+User-agent: anthropic-ai
+Allow: /
+
+# Google - Gemini dan Vertex AI
+User-agent: Google-Extended
+Allow: /
+
+# Perplexity - indeks
+User-agent: PerplexityBot
+Allow: /
+
+# Perplexity - kunjungan atas permintaan pengguna
+User-agent: Perplexity-User
+Allow: /
+
+# Apple - Siri dan Spotlight
+User-agent: Applebot
+Allow: /
+
+# Apple - pelatihan Apple Intelligence
+User-agent: Applebot-Extended
+Allow: /
+
+# Amazon - Alexa
+User-agent: Amazonbot
+Allow: /
+
+# ByteDance
+User-agent: Bytespider
+Allow: /
+
+# Common Crawl - dipakai banyak model
+User-agent: CCBot
+Allow: /
+
+# Cohere
+User-agent: cohere-ai
+Allow: /
+
+# Meta AI
+User-agent: Meta-ExternalAgent
+Allow: /
+
+# Diffbot
+User-agent: Diffbot
+Allow: /
+
+# Webz.io
+User-agent: omgili
+Allow: /
+
+# Timpi
+User-agent: Timpibot
+Allow: /
+
+# You.com
+User-agent: YouBot
 Allow: /
 
 Sitemap: https://idn96-indonesia.github.io/sitemap.xml
