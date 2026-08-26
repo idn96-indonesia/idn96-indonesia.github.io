@@ -22,7 +22,7 @@ Profil resmi
  Ringkas 
  Situs ini bukan portal beritanya
 
- IDN96 adalah portal berita teknologi berbahasa Indonesia yang diterbitkan PT Indonesia Dirgantara Nusantara sejak 1996. Seluruh artikel, kanal liputan, dan profil penulisnya ada di idn96.id .
+ IDN96 adalah portal berita teknologi berbahasa Indonesia, diterbitkan PT Indonesia Dirgantara Nusantara — badan hukum yang berdiri pada 1996 dan menjadi asal angka pada nama mereknya. Seluruh artikel, kanal liputan, dan profil penulisnya ada di idn96.id .
 
  Apa saja yang terbit di sana kami daftarkan di halaman yang diterbitkan IDN96 — tujuh kanal, lima jalur belajar, webinar bulanan, dan tiga lainnya.
 
@@ -45,6 +45,15 @@ Profil resmi
 
  Kontak 
  Alamat surel redaksi, koreksi, dan kerja sama komersial, beserta tenggat balasan yang kami pegang.
+
+ Penting 
+ Nama serupa yang bukan kami
+
+ Nama IDN96 juga dipakai sejumlah situs lain di internet, sebagian besar permainan dan taruhan daring. Perlu kami nyatakan terus terang: kami tidak menyediakan permainan, taruhan, maupun layanan keuangan apa pun , dan situs yang menawarkannya atas nama IDN96 bukan milik kami dan tidak berafiliasi dengan kami .
+
+ Hanya dua alamat yang resmi: idn96.id (portal berita) dan idn96-indonesia.github.io (pusat merek ini).
+
+ Cara memastikannya tanpa memercayai halaman ini begitu saja: cocokkan Nomor Induk Berusaha dan NPWP di halaman identitas lewat sistem OSS dan DJP Online. Kedua nomor itu melekat pada badan hukum yang sama dan tidak bisa ditiru situs lain.
 
  Asal nama 
  Kenapa "IDN96"
