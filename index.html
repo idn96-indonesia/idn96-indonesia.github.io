@@ -25,6 +25,7 @@
 <link rel="icon" type="image/png" sizes="48x48" href="assets/favicon.png">
 <link rel="apple-touch-icon" sizes="180x180" href="assets/apple-touch-icon.png">
 <link rel="manifest" href="site.webmanifest">
+<meta name="google-site-verification" content="8UJBw5L0AO2OT6WEglp7VsT-ryeBG1uIcxsrlBlFFPA" />
 <link rel="alternate" type="application/rss+xml" title="IDN96 — Berita Teknologi" href="https://idn96.id/rss.xml">
 <link rel="preconnect" href="https://cdn.jsdelivr.net">
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -291,9 +292,29 @@ body.notis-ada .back-top{opacity:0!important;pointer-events:none!important}
 .aset-ket{font-size:12.5px;color:var(--text-muted,#8ea2bf);line-height:1.45}
 .aset-kartu .btn{align-self:flex-start;min-height:40px;display:inline-flex;align-items:center}
 @media(max-width:420px){.aset-grid{grid-template-columns:1fr}.aset-bingkai{height:130px}}
+/* pop-up banner situs resmi: memakai pola .notis di atas; [hidden] harus menang atas display:flex */
+.notis-latar[hidden]{display:none}
+.popup-resmi .notis-gambar{aspect-ratio:1/1}
+@media(min-width:768px){.popup-resmi.notis{max-width:420px}}
 </style>
 </head>
 <body id="top" class="family-tech-news site-d75d page-static">
+<div class="notis-latar" id="popup-resmi" role="dialog" aria-modal="true" aria-labelledby="popup-resmi-judul" data-nosnippet hidden>
+ <div class="notis popup-resmi">
+  <button type="button" class="notis-tutup" data-popup-tutup aria-label="Tutup pemberitahuan">&#10005;</button>
+  <picture><source srcset="img/banner-pop-up.webp" type="image/webp"><img class="notis-gambar" src="img/banner-pop-up.png" width="840" height="840" alt="Poster IDN96: ajakan mengunjungi portal berita IDN96" loading="lazy" decoding="async"></picture>
+  <div class="notis-isi">
+   <p class="notis-eyebrow">Portal berita</p>
+   <p class="notis-judul" id="popup-resmi-judul">Kunjungi situs resmi IDN96</p>
+   <p class="notis-teks">Artikel dan kanal berita IDN96 bisa dibuka lewat tombol di bawah. Halaman ini hanya memuat profil merek dan sumber terbuka.</p>
+   <div class="notis-aksi">
+    <a class="btn btn-primary" href="https://idn96official.online/" data-popup-tutup>Akses situs resmi</a>
+    <button type="button" class="btn btn-outline-light" data-popup-tutup>Tutup</button>
+   </div>
+  </div>
+ </div>
+</div>
+
 <nav class="navbar navbar-expand-lg top-nav">
  <div class="container-lg">
  <a class="navbar-brand" href="index.html"><img src="assets/logo.png" alt="IDN96" width="120" height="40"></a>
@@ -416,5 +437,6 @@ body.notis-ada .back-top{opacity:0!important;pointer-events:none!important}
  </div>
  </div>
 </footer>
+<script>(function(){var l=document.getElementById('popup-resmi');if(!l)return;var b=document.body;function tutup(){if(l.hidden)return;l.hidden=true;b.classList.remove('notis-ada','notis-terkunci')}function buka(){l.hidden=false;b.classList.add('notis-ada');if(matchMedia('(min-width:768px)').matches)b.classList.add('notis-terkunci');var f=l.querySelector('.btn-primary');f&&f.focus({preventScroll:true})}l.addEventListener('click',function(e){if(e.target===l||e.target.closest('[data-popup-tutup]'))tutup()});document.addEventListener('keydown',function(e){if(e.key==='Escape')tutup()});setTimeout(buka,700)})();</script>
 </body>
 </html>
